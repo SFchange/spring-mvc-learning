@@ -6,6 +6,7 @@
 	<version>y</version>
 	<name>spring-mvc-learning Maven Webapp</name>
 	<url>http://maven.apache.org</url>
+	
 	<properties>
 		<commons-lang.version>2.6</commons-lang.version>
 		<slf4.version>1.7.6</slf4.version>
